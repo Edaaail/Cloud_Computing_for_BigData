@@ -1,0 +1,71 @@
+1. You review contracts manually — why not use software to extract key clauses?
+
+Answer:
+
+It is a logical question. We have looked at a few basic tools in the past, but they haven't proven particularly useful for our specific environment.
+
+There are three main reasons why I still rely on manual review.
+
+First, inconsistency in formatting. Every vendor—whether it is a local startup or an international provider—uses their own template. One vendor might place the liability limitations under a "General Terms" header, while another buries them within an Annex. A tool might find the word "Liability," but it often misses the nuanced language that shifts the risk back to the bank.
+
+Second, our regulatory framework in Kazakhstan is very specific. When I check for compliance with Personal Data laws or Banking Secrecy, I am not just looking for a specific word; I am looking for how the clause is structured to ensure it doesn't trigger a violation. A "standard" European or US clause often fails our local requirements.
+
+Finally, there is the issue of accuracy. If a software tool misses a 10% liability cap—similar to what happened in 2022—the regulator won't care that the software failed. They will hold the bank, and specifically the legal department, accountable. So far, I haven't seen a tool that I can trust enough to stop doing the manual check myself. It ends up being more work to verify the tool's output than to just read the PDF from the start.
+
+-----------------------------------------------------------------------------------------------------
+2. Why do you manually search for liability caps and termination clauses instead of using a template?
+
+Answer:
+
+We do have internal bank templates, and for internal agreements with BCC-HUB, we use them. However, for external IT procurement—especially with international software providers or specialized vendors—the bank rarely has the leverage to force them onto our paper.
+
+These vendors insist on using their own service agreements. They tell our Business and Procurement teams that their legal terms are non-negotiable or that using our template would delay the project by months. Because the Business team is under pressure to meet KPIs and launch products, they agree to use the vendor's document before it even reaches my desk.
+
+Once that happens, our template becomes irrelevant. I am forced to review their 40 or 50-page PDF to find where they have hidden the risk. They don't always use standard headings. A liability cap might be tucked away in an "Indemnification" section or a "Miscellaneous" annex. I have to find it, compare it to our risk appetite, and then try to negotiate it back toward our standards.
+
+Using a template is only possible when you have the power to dictate the terms. In IT and Cloud procurement, we are often the ones reacting to the vendor’s terms, not the other way around.
+
+-----------------------------------------------------------------------------------------------------
+3. Why does the business sign contracts before legal reviews them?
+
+Answer:
+
+It is rarely a case of intentional negligence. It usually comes down to a conflict between speed and procedure.
+
+The Business teams have strict KPIs and launch dates. If a Product Manager is told that a new feature for the banking app needs to go live in three weeks, and the vendor says, "Sign this today to start implementation tomorrow," the priority becomes the deadline, not the fine print.
+
+From their perspective, Legal is often seen as a "bottleneck." They believe that if they have negotiated a good price and the technical specifications are correct, the rest is just standard boilerplate. They don't realize that a "standard" clause in a vendor's document is written to protect the vendor, not Bank CenterCredit.
+
+Often, by the time the contract reaches me, the relationship with the vendor is already established. The Business team has already made verbal commitments. If I then find a problematic liability cap—like the one in 2022 that led to a significant unrecovered loss—I am the one "slowing down the project."
+
+The current system allows for this. Procurement handles the commercial negotiation, and because there is no hard digital gate that prevents a signature without a Legal "Approved" stamp in the system, the document moves forward. I am often asked to "just take a quick look" after the momentum of the project has already made it difficult to change any terms.
+
+-----------------------------------------------------------------------------------------------------
+4. Why are you personally responsible for risks that business already accepted?
+
+Answer:
+
+In the eyes of the bank's leadership and the regulator, there is a distinction between commercial risk and legal risk.
+
+The business team accepts the commercial risk—meaning they decide if the price is fair or if the software meets our technical needs. However, the Board and the Internal Audit department view the Legal department as the final safeguard for the bank’s institutional safety.
+
+When a contract is signed, even if the business pushed for it, my "Approved" stamp or my signature on the legal opinion is what tells the bank that this document complies with Kazakhstan law and protects our assets. If a breach occurs and we lose money—or worse, if the regulator finds we violated banking secrecy or personal data laws—they don't look at the Product Manager’s KPIs. They look at the contract.
+
+The 2022 incident is a perfect example. The business team was happy because they got a low price and a fast rollout. But when the loss happened, the first question from the Board was: "Who reviewed the liability section?"
+
+Even if I am not formally disciplined, my professional reputation is tied to those documents. If I flag a risk and the business ignores it, I have done my job. But if the business signs before I even see the document, and I later provide a "rubber stamp" just to keep the project moving, I am effectively adopting that risk as my own. In this bank, like most, the responsibility for a legal failure always flows back to the Legal department, regardless of who negotiated the deal.
+
+-----------------------------------------------------------------------------------------------------
+5. Why hasn't anyone automated this — the problem has existed for years?
+
+Answer:
+
+It is a fair question, and one I have asked myself. In my experience here, there are three reasons why automation has not taken hold.
+
+First, most of the "legal tech" solutions presented to us are developed for the Western market. They are designed for English or New York law. When you apply them to our local context—specifically the requirements of the Agency for Regulation and Development of the Financial Market (ARDFM) regarding banking secrecy or data residency—the tools struggle. They can find a "Governing Law" clause, but they cannot tell me if a specific data transfer protocol violates Kazakhstan’s Law on Personal Data.
+
+Second, previous attempts at "digital transformation" within the bank were often just more administration. A few years ago, we introduced a document management system, but it didn't analyze anything; it just added five more mandatory fields for me to fill out manually. It created more "clicks," but no actual value for the legal review itself. It was a tool for the archives, not for the lawyer.
+
+Third, and perhaps most importantly, the margin for error in banking is zero. If a developer builds a feature and it has a bug, they patch it in the next sprint. If I rely on an automated tool and it misses a single sentence in a 50-page PDF that allows a vendor to waive indirect damages, and we lose 50 million KZT, I cannot "patch" that.
+
+For a tool to be useful, I would have to trust it as much as I trust my own eyes. So far, the technology hasn't been able to handle the messy, non-standard way our vendors provide information. Until it can handle a poorly scanned PDF with inconsistent terminology, it is faster—and safer—for me to just read it myself.

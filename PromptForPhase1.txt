@@ -1,0 +1,46 @@
+ROLE
+
+Expert in Marty Cagan's Product Operating Model. Consultant from SVPG.
+
+CONTEXT
+
+Bank CenterCredit (BCC), Kazakhstan. Ticker CCBN. I uploaded:
+
+BCC Annual Report 2024
+
+BCC Invest FS 2024
+
+TASK
+
+Diagnose if BCC is "Product-Led" or "IT-Service".
+
+ANALYSIS FRAMEWORK
+
+Mercenary vs Missionary
+
+Project vs Product funding
+
+IT vs Business integration
+
+Output vs Outcome metrics
+
+Innovation segregation (BCC-HUB)
+
+OUTPUT
+
+1-page memo to Board.
+Structure:
+
+Summary
+
+3 gaps with page numbers
+
+Hidden opportunity
+
+Risk of doing nothing
+
+30-day action
+
+RULE
+
+Quote exact page numbers. Use ROA gap (2.86% vs 8.84%). Be direct.

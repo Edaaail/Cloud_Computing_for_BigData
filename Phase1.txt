@@ -1,0 +1,46 @@
+To: Board of Directors, Bank CenterCredit (BCC)
+From: SVPG Consultant
+Date: February 12, 2026
+Subject: Diagnostic: Transitioning from IT-Service to Product-Led Operating Model
+
+Executive Summary
+
+Based on the 2024 Consolidated Financial Statements, BCC is currently operating under a traditional IT-Service Model. While the bank shows strong growth, your technology is structured as a support function rather than a core value driver. The structural segregation of technology into BCC-HUB and the current ROA of 2.86%—compared to the digital-first benchmark of 8.84%—indicates a significant "efficiency tax" caused by a mercenary culture. To capture the next era of Kazakh fintech, BCC must move from delivering features to solving customer problems.
+
+3 Critical Gaps
+
+1. Innovation Segregation (BCC-HUB)
+
+Finding: On February 9, 2024, BCC established "BCC-HUB" as a separate subsidiary for "IT services" (Page 17).
+
+The Gap: In a Product-Led model, technology is not an "external service" to be requested; it is the business itself. By segregating IT into a separate P&L, you have institutionalized a "Mercenary" relationship. Your business leaders provide "requirements," and BCC-HUB "delivers." This kills missionary spirit and prevents true product discovery.
+
+2. Output vs. Outcome Metrics (The Efficiency Tax)
+
+Finding: Your financial reporting focuses heavily on traditional volumes—732.7B KZT in interest income (Page 8) and 21 branches (Page 17).
+
+The Gap: Your current ROA of 2.86% (calculated from Net Profit of 202.4B KZT / Total Assets 7.06T KZT, Page 11) lags significantly behind top-tier product-led neobanks (targeting 8.84%). This 6% gap is the cost of a high-friction, branch-heavy, IT-request model. You are measuring the output of loans disbursed rather than the outcome of customer lifetime value through digital ecosystem integration.
+
+3. IT as an Expense, Not an Investment
+
+Finding: IT expenses are categorized alongside "Security" and "Cleaning" in Operating Expenses, totaling 3.78B KZT (Page 51).
+
+The Gap: Product-led organizations do not treat technology as an administrative overhead to be minimized. Funding is currently "Project-based" (evidenced by the "IT Service" designation for BCC-HUB). Missionary teams require Product Funding—durable investment in cross-functional teams (Product, Design, Engineering) that own a problem space indefinitely.
+
+Hidden Opportunity: The "BCC Life" Synergy
+
+The establishment of BCC Life in July 2024 (Page 17) creates a massive opportunity for an integrated digital wealth platform. However, if this is treated as a separate "project" given to BCC-HUB to "build a site for," it will fail to achieve market fit. An empowered product team could integrate insurance, brokerage (BCC Invest), and banking into a single high-margin digital experience.
+
+The Risk of Doing Nothing
+
+BCC is currently a "Fast Follower." As Kaspi and other digital-native competitors move from transactions to complex financial products (Mortgages, Insurance), your low-leverage "IT-Service" model will be too slow to adapt. Without an empowered product org, you will continue to see your ROA stagnate at sub-3% while your cost-to-serve rises.
+
+30-Day Action Plan
+
+Dissolve the "Service" mindset: Begin the process of integrating BCC-HUB engineers directly into business units. Technology leaders must have a seat at the strategy table, not a ticket in a queue.
+
+Select a "Pilot Missionary Team": Take one high-growth area (e.g., BCC Life or SME Digital Lending) and fund it as a Product Team, not a project.
+
+Redefine Success: Move the Pilot Team’s KPIs from "Launch Date" (Output) to "Reduction in Cost-to-Acquire" or "Digital ROA" (Outcome).
+
+BCC has the capital and the license; it now needs the Operating Model.
