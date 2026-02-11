@@ -46,5 +46,6 @@ Pilot success criteria:
 Respectfully submitted,
 
 Yedil Niyazbekov
+
 Head of Cloud Transformation
 Bank CenterCredit
