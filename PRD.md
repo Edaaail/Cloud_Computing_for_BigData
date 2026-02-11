@@ -1,9 +1,9 @@
 PRD: BCC LegalGuardian AI
-1. JOB TO BE DONE
+** 1. JOB TO BE DONE **
 
 When I receive a non-standard vendor contract with tight business deadlines and high regulatory stakes, I want to automatically identify and compare high-risk clauses against Kazakhstan’s specific legal requirements and BCC’s risk appetite, so I can provide an accurate, high-speed legal opinion that prevents financial loss and regulatory violations without being the project bottleneck.
 
-2. USER PERSONA
+** 2. USER PERSONA **
 
 Marat, Senior Legal Counsel at Bank CenterCredit.
 Marat is a highly experienced, risk-averse legal professional. He is skeptical of generic "Legal Tech" because he has been burned by tools that miss nuances. He values accuracy over automation and carries the heavy burden of being the "final safeguard" for the bank’s institutional safety.
