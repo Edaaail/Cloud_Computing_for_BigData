@@ -1,4 +1,5 @@
 PRD: BCC LegalGuardian AI
+
 **1. JOB TO BE DONE**
 
 When I receive a non-standard vendor contract with tight business deadlines and high regulatory stakes, I want to automatically identify and compare high-risk clauses against Kazakhstan’s specific legal requirements and BCC’s risk appetite, so I can provide an accurate, high-speed legal opinion that prevents financial loss and regulatory violations without being the project bottleneck.
